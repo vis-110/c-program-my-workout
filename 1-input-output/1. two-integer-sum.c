@@ -13,9 +13,8 @@ int main(){
     return 0;
 }
 // Output
-// F:\start-c-program>output
+
 // Please Enter any two numbers
 // 4
 // 7
 // The sum is : 11
-// F:\start-c-program>
