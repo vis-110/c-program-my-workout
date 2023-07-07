@@ -13,7 +13,7 @@ int main(){
     return 0;
 }
 // Output
-
+ 
 // Please Enter any two numbers
 // 4
 // 7
